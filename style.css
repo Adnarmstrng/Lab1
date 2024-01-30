@@ -1,0 +1,18 @@
+.col-lg {
+    background-color: lightgreen;
+    color: black;
+    }
+.row {
+
+    background-color: darkgreen;
+color: white;
+}
+.col-md {
+
+    background-color: grey;
+}
+.btn {
+
+background-color: red;
+color: white;
+}
